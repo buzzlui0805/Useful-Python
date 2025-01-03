@@ -99,8 +99,6 @@
 98,Catherine,Machen,cmachen2p@columbia.edu,Female,2
 99,Stillman,Wyldbore,swyldbore2q@aol.com,Male,2
 100,Maximilian,Enns,menns2r@comcast.net,Male,2
-
-﻿id,first_name,last_name,email,gender,file_seq
 1,Cristabel,Sydney,csydney0@gnu.org,Female,1
 2,Zeb,Vanstone,zvanstone1@columbia.edu,Male,1
 3,Tammy,Ling,tling2@privacy.gov.au,Male,1
@@ -201,8 +199,6 @@
 98,Beryl,Northall,bnorthall2p@irs.gov,Female,1
 99,Emmott,Wrates,ewrates2q@hhs.gov,Male,1
 100,Helge,Darlison,hdarlison2r@ox.ac.uk,Female,1
-
-﻿id,first_name,last_name,email,gender,File_seq
 1,Vladamir,Tathacott,vtathacott0@biblegateway.com,Male,6
 2,Darb,Vaughton,dvaughton1@google.de,Male,6
 3,Udell,Chapelhow,uchapelhow2@fastcompany.com,Male,6
@@ -303,8 +299,6 @@
 98,Lionello,Edinburough,ledinburough2p@domainmarket.com,Male,6
 99,Fredi,Boram,fboram2q@usnews.com,Female,6
 100,Claudianus,MacVay,cmacvay2r@vk.com,Male,6
-
-﻿id,first_name,last_name,email,gender,File_seq
 1,Cathlene,Middlemiss,cmiddlemiss0@last.fm,Female,5
 2,Margalit,McRory,mmcrory1@hhs.gov,Genderqueer,5
 3,Cati,Moxom,cmoxom2@foxnews.com,Female,5
@@ -405,8 +399,6 @@
 98,Milzie,Phizakarley,mphizakarley2p@marriott.com,Female,5
 99,Gennifer,Dine-Hart,gdinehart2q@squidoo.com,Female,5
 100,Meghann,Kenderdine,mkenderdine2r@digg.com,Female,5
-
-﻿id,first_name,last_name,email,gender,File_seq
 1,Jerri,Simonnet,jsimonnet0@ow.ly,Male,4
 2,Anitra,Moloney,amoloney1@4shared.com,Female,4
 3,Erin,O'Hagirtie,eohagirtie2@github.com,Female,4
@@ -507,8 +499,6 @@
 98,Pail,Blonfield,pblonfield2p@discuz.net,Male,4
 99,Quint,Orkney,qorkney2q@tiny.cc,Male,4
 100,Kendall,Dzeniskevich,kdzeniskevich2r@eventbrite.com,Genderqueer,4
-
-﻿id,first_name,last_name,email,gender,File_seq
 1,Marrilee,Wallage,mwallage0@house.gov,Female,3
 2,Lorianne,Cordery,lcordery1@instagram.com,Female,3
 3,Ralph,Biddlestone,rbiddlestone2@istockphoto.com,Genderqueer,3
@@ -609,4 +599,3 @@
 98,Perrine,Dallow,pdallow2p@vinaora.com,Genderfluid,3
 99,Adi,Reddel,areddel2q@google.com,Female,3
 100,Leola,Duesbury,lduesbury2r@unesco.org,Female,3
-
